@@ -68,5 +68,3 @@ Match over
 - Enhance the game to handle multiple rounds and show score tracking.
 
 ---
-
-This README gives a brief introduction to your project and how to play the game, while also showcasing that this was your first-ever project as a beginner in programming!
